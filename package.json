@@ -1,0 +1,1 @@
+{"description":"The phone battery's last text to the charger it waited for all day — a make.fun entry","engines":{"node":">=22.18"},"license":"MIT","name":"battery-text-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
